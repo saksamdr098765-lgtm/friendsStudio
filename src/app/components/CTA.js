@@ -9,7 +9,7 @@ export default function CTA() {
       {/* Large Background Text */}
       <div className="pointer-events-none absolute inset-0 flex items-center justify-center overflow-hidden">
         <h2 className="text-[12rem] md:text-[18rem] font-bold text-white/[0.03] leading-none">
-          FRIENDS
+          SIMILE
         </h2>
       </div>
 

@@ -32,7 +32,7 @@ export default function Footer() {
               viewport={{ once: true }}
               className="mb-6 text-xs uppercase tracking-[0.4em] text-white/40"
             >
-              Friends Studio
+             Simile Photography
             </motion.p>
 
             <motion.h2
@@ -101,7 +101,7 @@ export default function Footer() {
       {/* Huge Background Text */}
       <div className="pointer-events-none absolute bottom-0 left-0 overflow-hidden">
         <h1 className="text-[8rem] md:text-[14rem] font-black leading-none text-white/[0.02]">
-          FRIENDS
+          SIMILE
         </h1>
       </div>
     </footer>

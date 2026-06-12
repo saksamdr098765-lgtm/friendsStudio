@@ -38,7 +38,7 @@ export default function Hero() {
               className="mb-6"
             >
               <span className="border border-white/20 px-4 py-2 text-xs uppercase tracking-[0.4em] text-gray-300">
-                Friends Studio
+            Smile Photography
               </span>
             </motion.div>
 
@@ -49,11 +49,11 @@ export default function Hero() {
               className="leading-none"
             >
               <span className="block text-[4rem] font-light md:text-[6rem] lg:text-[8rem]">
-                FRIENDS
+                SMILE
               </span>
 
-              <span className="block text-[4rem] font-bold md:text-[6rem] lg:text-[8rem]">
-                STUDIO
+              <span className="block text-[4rem] font-bold ">
+                PHOTOGRAPHY
               </span>
             </motion.h1>
 

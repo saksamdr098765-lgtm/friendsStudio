@@ -25,11 +25,11 @@ export default function Navbar() {
         <Link href="/" className="group">
           <div className="flex flex-col">
             <span className="text-xl font-light tracking-[0.4em] text-white">
-              FRIENDS
+              SMILE
             </span>
 
             <span className="text-xs tracking-[0.55em] text-white/60">
-              STUDIO
+              PHOTOGRAPHY
             </span>
           </div>
         </Link>
